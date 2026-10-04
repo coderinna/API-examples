@@ -114,4 +114,10 @@ Projektin tavoitteena on harjoitella ja esitellä:
 
 ## LISENSSI
 
-- [LICENSE](./LICENSE)
+[LICENSE](./LICENSE)
+
+CC0 1.0 Universal — free to use, modify, copy, and distribute, including for commercial purposes.
+
+This project is released under the CC0 1.0 Universal public domain dedication.
+
+CC0 1.0 Universal — Official License
