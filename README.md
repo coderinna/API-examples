@@ -4,7 +4,7 @@ Kokoelma erilaisia API-esimerkkejä ja CRUD-toteutuksia eri teknologioilla ja ti
 
 Projektin tarkoituksena on toimia käytännön **minimi** esimerkki- ja harjoitteluprojektina API-rajapintojen, tietokantojen sekä backend-teknologioiden toteutuksesta.
 
-Alkuperäinen toteutus 2023. Ei päivitetty sen jälkeen.
+Alkuperäinen toteutus **2023**. Ei päivitetty sen jälkeen.
 
 **EI TEKOÄLYÄ KÄYTETTY tuolloin**.
 
@@ -110,3 +110,8 @@ Projektin tavoitteena on harjoitella ja esitellä:
 * Tietokantojen käyttöä
 * Backend-kehitystä
 * Eri teknologioiden ja tietokantojen vertailua
+
+
+## LISENSSI
+
+- [LICENSE](./LICENSE)
